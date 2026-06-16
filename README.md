@@ -47,3 +47,5 @@ To use prompt engineering techniques to generate professional website content fo
 ## Outcome
 
 Successfully created a complete website copy package for a local dental clinic using structured AI prompts and prompt optimization techniques.
+##Live Demo
+🔗 Live Demo [https://smile-clinic-hub-18.preview.emergentagent.com/]
